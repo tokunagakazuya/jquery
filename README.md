@@ -1,4 +1,4 @@
-jquery
+jQuery Plugin Sandbox
 ======
 自作jQueryプラグイン置き場予定。
 
